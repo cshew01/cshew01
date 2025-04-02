@@ -17,7 +17,7 @@ I’m always chasing the next layer of coding knowledge—because just like Neo,
 
 - 💻 My next learning challenge: **Ruby and C++**
 
-- 🤝 I’m looking for help with [5 Lads Travel Panner](https://github.com/cshew01/PT74-Travel-Planner)
+- 🤝 I’m looking to collaborate on [5 Lads Travel Panner](https://github.com/cshew01/PT74-Travel-Planner)
 
 - 👨‍💻 All of my projects are available at [https://github.com/cshew01](https://github.com/cshew01)
 
@@ -37,7 +37,7 @@ I’m always chasing the next layer of coding knowledge—because just like Neo,
 ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=plastic&logo=plex&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=plastic&logo=Airbnb&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=plastic&logo=Uber&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=plastic&logo=ea&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=plastic&logo=battle.net&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=plastic&logo=Ubisoft&logoColor=black) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cshew01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=cshew01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 ![](https://nirzak-streak-stats.vercel.app/?user=cshew01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cshew01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
